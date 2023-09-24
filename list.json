@@ -20,6 +20,13 @@
             "desc": "A plugin to run SWF Files",
             "data": "apps/flash.app.zip",
             "category": "plugin"
+        },
+        {
+            "name": "Deta Space",
+            "icon": "icons/deta.png",
+            "desc": "Deta Space application runtime",
+            "data": "apps/deta.app.zip",
+            "category": "plugin"
         }
     ]
 }
