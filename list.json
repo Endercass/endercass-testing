@@ -25,7 +25,7 @@
       "name": "Dependency Test",
       "icon": "icons/null",
       "desc": "A test app that depends on Flash Plugin",
-      "data": "apps/dependency.app.zip",
+      "data": "apps/deptest.app.zip",
       "category": "test",
       "dependencies": ["Flash"]
     }
