@@ -27,12 +27,12 @@
       "desc": "A test app that depends on Flash Plugin",
       "data": "apps/dependency.app.zip",
       "category": "test",
-      "dependencies": ["Flash Plugin"]
+      "dependencies": ["Flash"]
     }
   ],
   "libs": [
     {
-      "name": "Flash Plugin",
+      "name": "Flash",
       "icon": "icons/flash.svg",
       "desc": "A plugin to run SWF Files",
       "data": "libs/flash.lib.zip",
