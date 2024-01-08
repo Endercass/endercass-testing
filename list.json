@@ -20,6 +20,14 @@
       "desc": "Deta Space application runtime",
       "data": "apps/deta.app.zip",
       "category": "plugin"
+    },
+    {
+      "name": "Dependency Test",
+      "icon": "icons/null",
+      "desc": "A test app that depends on Flash Plugin",
+      "data": "apps/dependency.app.zip",
+      "category": "test",
+      "dependencies": ["Flash Plugin"]
     }
   ],
   "libs": [
