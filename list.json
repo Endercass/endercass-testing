@@ -37,6 +37,13 @@
       "desc": "A plugin to run SWF Files",
       "data": "libs/flash.lib.zip",
       "category": "plugin"
+    },
+    {
+      "name": "Buttplug.io",
+      "icon": "icons/buttplug_logo.png",
+      "desc": "Buttplug.io library",
+      "data": "libs/buttplug.lib.zip",
+      "category": "plugin"
     }
   ]
 }
