@@ -44,6 +44,12 @@
       "desc": "Buttplug.io library",
       "data": "libs/buttplug.lib.zip",
       "category": "plugin"
+    },
+    {
+      "name": "Trans",
+      "icon": "icons/libtrans.png",
+      "desc": "libtrans",
+      "data": "libs/libtrans.lib.zip"
     }
   ]
 }
