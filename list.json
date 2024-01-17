@@ -50,6 +50,12 @@
       "icon": "icons/libtrans.png",
       "desc": "libtrans",
       "data": "libs/libtrans.lib.zip"
+    },
+    {
+      "name": "Anura VSCode Extension",
+      "icon": "icons/anura.png",
+      "desc": "Anura VSCode Extension",
+      "data": "libs/vscode.lib.zip"
     }
   ]
 }
