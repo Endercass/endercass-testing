@@ -28,6 +28,13 @@
       "data": "apps/deptest.app.zip",
       "category": "test",
       "dependencies": ["Flash"]
+    },
+    {
+      "name": "VNC Resolver",
+      "icon": "icons/libtest.png",
+      "desc": "Computernewb VNC Resolver",
+      "data": "apps/anura-vnc-resolver.app.zip",
+      "category": "fun"
     }
   ],
   "libs": [
